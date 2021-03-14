@@ -25,3 +25,12 @@ A (slightly opinionated) TailwindCSS scaffold.
 -   https://github.com/postcss/postcss-nested
 -   https://github.com/cssnano/cssnano - runs only when `NODE_ENV=prod`
 -   https://github.com/postcss/autoprefixer
+
+## Helpful links
+
+-   https://tailwindcss.com/docs/customizing-colors - The default color palette that
+    comes out-of-the-box
+-   https://tailwindcss.com/docs/breakpoints - The default breakpoints
+-   https://nerdcave.com/tailwind-cheat-sheet - A lovely cheatsheet
+-   https://tailwindcss.com/docs/adding-base-styles - Base styles
+-   https://tailwindcss.com/docs/flex - Flextastic stuff
